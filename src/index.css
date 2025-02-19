@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+    background-color: black;
+    color: white; /* Ensures text remains visible */
+  }
+  
+#tasklist::-webkit-scrollbar{
+    display: none;
+}
+/* 
+ This CSS rule is used to hide the scrollbar for an element with the id="tasklist",
+ but only in WebKit-based browsers (like Chrome, Edge, and Safari)
+ */
