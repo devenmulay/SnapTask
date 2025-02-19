@@ -45,12 +45,12 @@ and so on....
 ## Project Screenshots
 
 ### 📌 Login Page
-![Login Page](https://github.com/user-attachments/assets/YOUR-LOGIN-PAGE-IMAGE-URL)
+![Login-Page](https://github.com/user-attachments/assets/272fca4d-8426-4b03-b9dd-13c1401a61b5)
 
-### 📌 Homepage
-![Homepage](https://github.com/user-attachments/assets/9e3a4d70-fd38-41b2-8204-6e27160dbf14)
+### 📌 Admin Dashboard
+![Admin-Dashboard](https://github.com/user-attachments/assets/9e3a4d70-fd38-41b2-8204-6e27160dbf14)
 
-### 📌 Dashboard
-![Dashboard](https://github.com/user-attachments/assets/ee92c77d-494b-46e2-9959-bbbb48c565df)
+### 📌 Employee Dashboard
+![Employee-Dashboard](https://github.com/user-attachments/assets/ee92c77d-494b-46e2-9959-bbbb48c565df)
 
 
